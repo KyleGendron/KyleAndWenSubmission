@@ -12,3 +12,9 @@ Since there is no way for me to link these items in this repo, all the rest of t
   
 If I ever shell out the funds for a public account with Dropbox, the files are located here:
 https://www.dropbox.com/home/PHY%20261%20Final%20PRoject%20Files
+
+In this iPython Notebook, currently the "animate" method uses an FFMPEG-dependent function to generate .mp4 videos for the animation.  Coming soon will be an update to separate this type of animation from simply displaying a window showing the animation.  In the case that you'd like to use the animation with the FFMPEG-based function, a tutorial for it's installation (with dependencies) is here:
+
+On linux -- https://trac.ffmpeg.org/wiki/CompilationGuide/Ubuntu
+On Windows -- http://www.wikihow.com/Install-FFmpeg-on-Windows
+On Mac OS X -- http://stephenjungels.com/jungels.net/articles/ffmpeg-howto.html
